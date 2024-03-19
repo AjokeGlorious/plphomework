@@ -2,6 +2,8 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 10px;
+  width: 300px;
+  margin-top: 20px;
 }
 img {
   width: 90%;
